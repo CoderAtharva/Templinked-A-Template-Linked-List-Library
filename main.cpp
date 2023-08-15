@@ -23,7 +23,6 @@ int main()
     myList.push_front(5);
     myList.push(7);
 
-
     // Display information about the list
     cout << "List size: " << myList.size() << endl;
     cout << "Front element: " << myList.get_front() << endl;
